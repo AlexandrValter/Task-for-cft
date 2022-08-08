@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-testtask-cft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/java_testtask_cft_jar/java-testtask-cft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
